@@ -52,6 +52,6 @@ El proyecto está compuesto por 8 retos que abordan distintas técnicas de inyec
 - Burp Suite Intruder para automatización de payloads en inyección blind.
 - Script Python para automatizar la extracción de la flag en retos basados en tiempo.
 
-### Este proyecto demuestra un entendimiento profundo de las técnicas de inyección SQL, incluyendo inyecciones clásicas, blind booleanas y basadas en tiempo, así como la habilidad para eludir filtros y restricciones.
+Este proyecto demuestra un entendimiento profundo de las técnicas de inyección SQL, incluyendo inyecciones clásicas, blind booleanas y basadas en tiempo, así como la habilidad para eludir filtros y restricciones.
 
 
